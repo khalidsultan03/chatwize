@@ -1,3 +1,5 @@
+"use client"
+
 import Link from 'next/link'
 import { NavigationMenu, NavigationMenuItem, NavigationMenuLink, NavigationMenuList } from '@/components/ui/navigation-menu'
 import { Home, Users, LayoutTemplate, Settings, CreditCard, HelpCircle, LogOut } from 'lucide-react'
