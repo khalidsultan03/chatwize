@@ -9,7 +9,7 @@
   --background: #FFFFFF;
   --foreground: #000000;
   --accent: #007AFF;
-  --accent-foreground: #FFFFFF; // assuming white text on accent
+  --accent-foreground: #FFFFFF; /* assuming white text on accent */
   --font-mono: var(--font-geist-mono);
   --color-sidebar-ring: var(--sidebar-ring);
   --color-sidebar-border: var(--sidebar-border);
